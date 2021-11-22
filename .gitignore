@@ -1,1 +1,4 @@
 .idea
+letterboxd_env/
+**/__pycache__/**
+
